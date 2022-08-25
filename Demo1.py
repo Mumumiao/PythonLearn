@@ -130,3 +130,4 @@
 #        print(f"余额为{money}")
 list_test=["tom",["jerry","haven"],"海绵包"]
 print(list_test[1])
+print("新建")
